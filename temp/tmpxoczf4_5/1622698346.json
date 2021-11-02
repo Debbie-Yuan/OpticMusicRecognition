@@ -1,0 +1,387 @@
+{
+  "0": [
+    {
+      "clear": false
+    },
+    {
+      "clear": false
+    }
+  ],
+  "1": [
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    }
+  ],
+  "2": [],
+  "3": [
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "c4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 2,
+      "up": false
+    },
+    {
+      "clear": false
+    }
+  ],
+  "4": [
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 2,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "c4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    }
+  ],
+  "5": [
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "c4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "e4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    }
+  ],
+  "6": [
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "e4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    },
+    {
+      "clear": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    }
+  ],
+  "7": [
+    {
+      "clear": false
+    }
+  ],
+  "8": [
+    {
+      "clear": false
+    },
+    {
+      "clear": false
+    },
+    {
+      "clear": false
+    }
+  ],
+  "9": [
+    {
+      "clear": false
+    }
+  ],
+  "10": [
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 2,
+      "up": false
+    },
+    {
+      "clear": false
+    },
+    {
+      "clear": false
+    }
+  ],
+  "11": [
+    {
+      "clear": false
+    },
+    {
+      "clear": true,
+      "dot": true,
+      "down": false,
+      "notes": [
+        "c5"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    }
+  ],
+  "12": [
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "c4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "e4"
+      ],
+      "rest": false,
+      "speed": 2,
+      "up": false
+    }
+  ],
+  "13": [
+    {
+      "clear": false
+    },
+    {
+      "clear": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "c4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    }
+  ],
+  "14": [
+    {
+      "clear": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "c4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    }
+  ],
+  "15": [
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "e4"
+      ],
+      "rest": false,
+      "speed": 2,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    },
+    {
+      "clear": false
+    },
+    {
+      "clear": true,
+      "dot": true,
+      "down": false,
+      "notes": [
+        "b3",
+        "e4",
+        "b4",
+        "c5",
+        "d5",
+        "e5"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    }
+  ],
+  "16": [
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 2,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "c4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "c5"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    }
+  ],
+  "17": [
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "c4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    },
+    {
+      "clear": true,
+      "dot": false,
+      "down": false,
+      "notes": [
+        "g4"
+      ],
+      "rest": false,
+      "speed": 0.5,
+      "up": false
+    }
+  ]
+}

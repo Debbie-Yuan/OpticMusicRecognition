@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>Form</class>
+    <widget class="QWidget" name="Form">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>677</width>
+                <height>465</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>Form</string>
+        </property>
+        <widget class="QLabel" name="label_5">
+            <property name="geometry">
+                <rect>
+                    <x>260</x>
+                    <y>190</y>
+                    <width>58</width>
+                    <height>16</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>节奏型:</string>
+            </property>
+        </widget>
+        <widget class="QLineEdit" name="title_le">
+            <property name="geometry">
+                <rect>
+                    <x>310</x>
+                    <y>100</y>
+                    <width>231</width>
+                    <height>21</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string/>
+            </property>
+        </widget>
+        <widget class="QLabel" name="label_4">
+            <property name="geometry">
+                <rect>
+                    <x>400</x>
+                    <y>160</y>
+                    <width>58</width>
+                    <height>16</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>拍号:</string>
+            </property>
+        </widget>
+        <widget class="QLabel" name="label_2">
+            <property name="geometry">
+                <rect>
+                    <x>260</x>
+                    <y>100</y>
+                    <width>58</width>
+                    <height>16</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>标题:</string>
+            </property>
+        </widget>
+        <widget class="QLineEdit" name="author_le">
+            <property name="geometry">
+                <rect>
+                    <x>310</x>
+                    <y>130</y>
+                    <width>231</width>
+                    <height>21</height>
+                </rect>
+            </property>
+        </widget>
+        <widget class="QLabel" name="label_3">
+            <property name="geometry">
+                <rect>
+                    <x>260</x>
+                    <y>160</y>
+                    <width>58</width>
+                    <height>16</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>拍速:</string>
+            </property>
+        </widget>
+        <widget class="QLineEdit" name="speed_le">
+            <property name="geometry">
+                <rect>
+                    <x>310</x>
+                    <y>160</y>
+                    <width>81</width>
+                    <height>21</height>
+                </rect>
+            </property>
+        </widget>
+        <widget class="QLineEdit" name="clef_le">
+            <property name="geometry">
+                <rect>
+                    <x>440</x>
+                    <y>160</y>
+                    <width>101</width>
+                    <height>21</height>
+                </rect>
+            </property>
+            <property name="placeholderText">
+                <string>g</string>
+            </property>
+        </widget>
+        <widget class="QLineEdit" name="ts_le">
+            <property name="geometry">
+                <rect>
+                    <x>310</x>
+                    <y>190</y>
+                    <width>81</width>
+                    <height>21</height>
+                </rect>
+            </property>
+            <property name="placeholderText">
+                <string>4/4</string>
+            </property>
+        </widget>
+        <widget class="QLabel" name="label">
+            <property name="geometry">
+                <rect>
+                    <x>260</x>
+                    <y>130</y>
+                    <width>58</width>
+                    <height>16</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>作者:</string>
+            </property>
+        </widget>
+        <widget class="QLabel" name="label_6">
+            <property name="geometry">
+                <rect>
+                    <x>360</x>
+                    <y>60</y>
+                    <width>91</width>
+                    <height>21</height>
+                </rect>
+            </property>
+            <property name="font">
+                <font>
+                    <pointsize>18</pointsize>
+                </font>
+            </property>
+            <property name="text">
+                <string>元信息编辑</string>
+            </property>
+        </widget>
+        <widget class="QPushButton" name="open_folder_btn">
+            <property name="geometry">
+                <rect>
+                    <x>270</x>
+                    <y>240</y>
+                    <width>100</width>
+                    <height>32</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>打开文件夹</string>
+            </property>
+            <property name="icon">
+                <iconset resource="../base/files.qrc">
+                    <normaloff>:/16x16/icons/16x16/cil-exit-to-app.png</normaloff>
+                    :/16x16/icons/16x16/cil-exit-to-app.png
+                </iconset>
+            </property>
+        </widget>
+        <widget class="QPushButton" name="export_btn">
+            <property name="geometry">
+                <rect>
+                    <x>380</x>
+                    <y>240</y>
+                    <width>71</width>
+                    <height>32</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>导出</string>
+            </property>
+            <property name="icon">
+                <iconset resource="../base/files.qrc">
+                    <normaloff>:/16x16/icons/16x16/cil-cursor.png</normaloff>:/16x16/icons/16x16/cil-cursor.png
+                </iconset>
+            </property>
+        </widget>
+        <widget class="QPushButton" name="popopen_btn">
+            <property name="geometry">
+                <rect>
+                    <x>460</x>
+                    <y>240</y>
+                    <width>71</width>
+                    <height>32</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string>打开</string>
+            </property>
+            <property name="icon">
+                <iconset resource="../base/files.qrc">
+                    <normaloff>:/16x16/icons/16x16/cil-window-restore.png</normaloff>
+                    :/16x16/icons/16x16/cil-window-restore.png
+                </iconset>
+            </property>
+        </widget>
+        <widget class="QLabel" name="status_now">
+            <property name="geometry">
+                <rect>
+                    <x>260</x>
+                    <y>280</y>
+                    <width>321</width>
+                    <height>20</height>
+                </rect>
+            </property>
+            <property name="text">
+                <string/>
+            </property>
+        </widget>
+        <widget class="QTextBrowser" name="text_logs">
+            <property name="geometry">
+                <rect>
+                    <x>200</x>
+                    <y>310</y>
+                    <width>441</width>
+                    <height>111</height>
+                </rect>
+            </property>
+        </widget>
+    </widget>
+    <resources>
+        <include location="../base/files.qrc"/>
+    </resources>
+    <connections/>
+</ui>

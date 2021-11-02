@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN"
+		"http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise>
+	<work>
+		<work-title>Directly Created MusicXML</work-title>
+	</work>
+	<identification>
+		<creator type="composer">HTMLvis</creator>
+		<encoding>
+			<encoding-date>2021-05-30</encoding-date>
+			<software>pymusicxml</software>
+		</encoding>
+	</identification>
+	<part-list>
+		<score-part id="P1">
+			<part-name>Oboe</part-name>
+			<score-instrument id="P1-I1">
+				<instrument-name>Oboe</instrument-name>
+			</score-instrument>
+			<midi-instrument id="P1-I1">
+				<midi-program>69</midi-program>
+			</midi-instrument>
+		</score-part>
+	</part-list>
+	<part id="P1">
+		<measure number="1">
+			<attributes>
+				<divisions>4</divisions>
+				<time>
+					<beats>1</beats>
+					<beat-type>4</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+			</note>
+			<note>
+				<rest/>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+		</measure>
+		<measure number="2">
+			<attributes>
+				<divisions>5</divisions>
+				<clef>
+					<sign>C</sign>
+					<line>2</line>
+				</clef>
+			</attributes>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+				</time-modification>
+				<beam number="1">begin</beam>
+				<notations>
+					<tuplet type="start"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+				</time-modification>
+				<beam number="1">continue</beam>
+				<beam number="2">begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+				</time-modification>
+				<beam number="1">continue</beam>
+				<beam number="2">continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<time-modification>
+					<actual-notes>5</actual-notes>
+					<normal-notes>4</normal-notes>
+				</time-modification>
+				<beam number="1">end</beam>
+				<beam number="2">end</beam>
+				<notations>
+					<tuplet type="stop"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
+			<note>
+				<rest/>
+				<duration>5</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<barline location="right">
+				<bar-style>light-heavy</bar-style>
+			</barline>
+		</measure>
+	</part>
+</score-partwise>
