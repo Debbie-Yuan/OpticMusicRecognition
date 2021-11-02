@@ -30,3 +30,5 @@
 ## 5. 结果及结果分析
 
 
+## 6. 启动方式
+- ``python Apps/base/main.py``
